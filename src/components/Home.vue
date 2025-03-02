@@ -27,20 +27,20 @@ const emit = defineEmits(["openContent"]);
     <div
       class="relative z-10 flex flex-col items-center justify-center h-full text-white text-center px-6 mt-[-10px]"
     >
-      <h1 class="text-4xl md:text-7xl font-bold mt-10">
+      <h1 class="text-4xl md:text-7xl font-bold pt-20">
         <img src="/src/assets/generatedtext.png" alt="" />
       </h1>
-      <p class="text-3xl md:text-4xl mt-20 font-khmer text-yellow-300">
+      <p class="text-3xl md:text-4xl mt-10 font-khmer text-yellow-300">
         សូមគោរពអញ្ជើញ
       </p>
       <h3
         class="text-6xl md:text-6xl mt-20 font-khmer font-bold text-yellow-300"
       >
-        MR. SENG PRICHA AND HUNNI
+        ALL MY FRIENDS WITH HUNNI
       </h3>
       <button
         @click="emit('openContent')"
-        class="mt-48 px-20 py-6 text-4xl md:text-6xl bg-[#390058] border border-yellow-400 rounded-full text-yellow-400 font-khmer-kh animate-pulse scale-animation"
+        class="mt-20 px-20 py-6 text-4xl md:text-6xl bg-[#390058] border border-yellow-400 rounded-full text-yellow-400 font-khmer-kh animate-pulse scale-animation"
       >
         បើកធៀប
       </button>
