@@ -1,0 +1,66 @@
+<script setup></script>
+
+<template>
+  <div class="relative w-full h-screen overflow-hidden">
+    <!-- Background Video -->
+    <video
+      class="absolute top-0 left-0 w-full h-full object-cover"
+      autoplay
+      loop
+      muted
+      playsinline
+    >
+      <source src="/src/assets/video1.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- Overlay (optional, for better readability) -->
+    <div
+      class="absolute top-0 left-0 w-full h-full bg-black/30 bg-opacity-50"
+    ></div>
+
+    <!-- Content -->
+    <div
+      class="relative z-10 flex flex-col items-center justify-center h-full text-white text-center px-6 mt-[-10px]"
+    >
+      <h1 class="text-4xl md:text-7xl font-bold mt-10">
+        <img src="/src/assets/generatedtext.png" alt="" />
+      </h1>
+      <p class="text-3xl md:text-4xl mt-20 font-khmer text-yellow-200">
+        សូមគោរពអញ្ជើញ
+      </p>
+      <h3
+        class="text-6xl md:text-6xl mt-20 font-khmer font-bold text-yellow-200"
+      >
+        MR. VEN TOLA AND HUNNI
+      </h3>
+      <router-link to="/content">
+        <button
+          class="mt-48 px-20 py-6 text-4xl md:text-6xl bg-[#390058] border border-yellow-200 rounded-full text-yellow-200 font-khmer animate-pulse scale-animation"
+        >
+          បើកធៀប
+        </button>
+      </router-link>
+      <div class="font-khmer pt-10 text-yellow-200 text-xl md:text-2xl">
+        ចុចអេក្រង់ដើម្បីបើកធៀបអេឡិចត្រូនិច
+      </div>
+    </div>
+  </div>
+  <router-view></router-view>
+</template>
+<script setup></script>
+<style>
+@keyframes scaleUpDown {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+}
+
+.scale-animation {
+  animation: scaleUpDown 2s infinite ease-in-out;
+}
+</style>
