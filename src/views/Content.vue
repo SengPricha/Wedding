@@ -241,28 +241,28 @@
                 <div class="border bg-yellow-500 border-yellow-500 w-1 h-12 m-auto"></div>
               </div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង២ៈ០០រសៀល
+               ម៉ោង២:០០រសៀល
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                ពិធីក្រុងពាលី
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង៣ៈ០០រសៀល
+               ម៉ោង៣:០០រសៀល
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                ពិធីសូត្រមន្តចម្រើនព្រះបរិត្ត
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង៥ៈ០០រសៀល
+               ម៉ោង៥:០០រសៀល
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                 ពិធីកាត់ខាន់ស្លា
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-                ម៉ោង៦ៈ០០រសៀល
+                ម៉ោង៦:០០រសៀល
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                អញ្ជើញភ្ញៀវកិត្តិយសសេពសោយអាហារ
@@ -277,42 +277,42 @@
                 <div class="border bg-yellow-500 border-yellow-500 w-1 h-12 m-auto"></div>
               </div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង៦ៈ៣០ព្រឹក
+               ម៉ោង៦:៣០ព្រឹក
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                ជួបជុំភ្ញៀវកិត្តិយសទាំងអស់ដើម្បីរៀបហែជំនូន
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង៧ៈ០០ព្រឹក
+               ម៉ោង៧:០០ព្រឹក
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                ពិធីហែជំនូន (កំណត់)
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង៨ៈ៣០ព្រឹក
+               ម៉ោង៨:៣០ព្រឹក
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                ពិធីបំពាក់ចិញ្ចៀន
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង៩ៈ០០ព្រឹក
+               ម៉ោង៩:០០ព្រឹក
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                ពិធីកាត់សក់បង្កក់សិរី
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង១០ៈ០០ព្រឹក
+               ម៉ោង១០:០០ព្រឹក
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                ពិធីក្រាបសំពះផ្ទឹម ចងដៃ និងបាចផ្កាស្លា
               </h2>
               <div class="border bg-yellow-500 border-yellow-500 w-1 h-16 mt-2 m-auto"></div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង១២ៈ០០ថ្ងៃត្រង់
+               ម៉ោង១២:០០ថ្ងៃត្រង់
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                 អញ្ជើញភ្ញៀវកិត្តិយសពិសារភោជនាហារថ្ងៃត្រង់
@@ -325,7 +325,7 @@
                 <div class="border bg-yellow-500 border-yellow-500 w-1 h-12 m-auto"></div>
               </div>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
-               ម៉ោង៤ៈ០០ល្ងាចតទៅ
+               ម៉ោង៤:០០ល្ងាចតទៅ
               </h2>
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                 អញ្ជើញភ្ញៀវកិត្តិយសពិសារភោជនាហារដោយមេត្រីភាព
