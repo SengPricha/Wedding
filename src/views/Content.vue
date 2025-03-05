@@ -170,14 +170,14 @@
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/download (2).jpg"
+              src="/src/assets/photo_2025-03-05_22-07-42.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/download (3).jpg"
+              src="/src/assets/photo_2025-03-05_22-07-18.jpg"
               alt=""
             />
           </div>
@@ -186,14 +186,14 @@
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/download (4).jpg"
+              src="/src/assets/photo_2025-03-05_22-07-37.jpg"
               alt=""
             />
           </div>
           <div>
             <img
               class="md:w-96 w-60"
-              src="/src/assets/download (5).jpg"
+              src="/src/assets/photo_2025-03-05_22-07-47.jpg"
               alt=""
             />
           </div>
