@@ -25,32 +25,32 @@
           <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh">
             កូនប្រុសនាម
           </div>
-          <div class="text-2xl md:text-5xl mt-4 md:mt-10">សាលឿត</div>
-          <div class="text-2xl md:text-5xl mt-2 md:mt-10">ភត្រា</div>
+          <div class="text-2xl md:text-5xl mt-4 md:mt-10">ជួប</div>
+          <div class="text-2xl md:text-5xl mt-2 md:mt-10">ឧត្តម</div>
         </div>
         <div class="w-[100px] md:w-[200px] font-bold mt-10">
-          <img src="/src/assets/generatedtext.png" alt="" />
+          <img src="/src/assets/ov.png" alt="" />
         </div>
         <div>
           <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh">
             កូនស្រីនាម
           </div>
-          <div class="text-2xl md:text-5xl mt-4 md:mt-10">គ្រី</div>
-          <div class="text-2xl md:text-5xl mt-2 md:mt-10">ស្រីនាថ</div>
+          <div class="text-2xl md:text-5xl mt-4 md:mt-10">វ៉ាត</div>
+          <div class="text-2xl md:text-5xl mt-2 md:mt-10">វិច្ចរ៉ា</div>
         </div>
       </div>
       <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh mt-20">
         ដែលនឹងប្រព្រឹត្តទៅនៅ
       </div>
       <div class="text-3xl md:text-5xl mt-4 md:mt-10 font-khmer">
-        ថ្ងៃអាទិត្យទី២៣ ខែមីនា ឆ្នាំ២០២៥
+        ថ្ងៃព្រហស្បតិ៍ ទី២៦ ខែមិថុនា ឆ្នាំ២០២៥
       </div>
       <div class="text-yellow-500 text-xl md:text-3xl font-khmer-kh mt-10">
-        ចុះពីស្ពានផ្លូវកាត់ចំងាយ៥០០ម៉ែត្រ
+        ទីតាំង ខេត្តកំពត
       </div>
       <button
         class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full"
-        onclick="window.open('https://www.google.com/maps/@12.7814201,103.4533178,182m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D', '_blank')"
+        
       >
         <div class="text-2xl md:text-4xl">បើកផែនទី</div>
 
@@ -86,7 +86,7 @@
         <h2 class="text-4xl md:text-6xl mt-20 font-khmer text-yellow-200">
           សិរីមង្គលអាពាហ៍ពិពាហ៍
         </h2>
-        <div
+        <!-- <div
           class="flex justify-between items-center mt-20 font-khmer text-yellow-200 text-2xl md:text-3xl md:w-1/2 mx-auto"
         >
           <div>
@@ -97,7 +97,7 @@
             <div>លោក សេន គ្រី</div>
             <div>លោកស្រី ឈិន មុំ</div>
           </div>
-        </div>
+        </div> -->
         <div  
           class="text-yellow-400 text-xl md:text-3xl font-khmer-kh mt-20 md:w-1/2 text-center mx-auto"
         >
@@ -112,29 +112,28 @@
             <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh">
               កូនប្រុសនាម
             </div>
-            <div class="text-2xl md:text-5xl mt-4 md:mt-10">សាលឿត</div>
-            <div class="text-2xl md:text-5xl mt-2 md:mt-10">ភត្រា</div>
+            <div class="text-2xl md:text-5xl mt-4 md:mt-10">ជួប</div>
+            <div class="text-2xl md:text-5xl mt-2 md:mt-10">ឧត្តម</div>
           </div>
           <div class="w-[100px] md:w-[200px] font-bold mt-10">
-            <img src="/src/assets/generatedtext.png" alt="" />
+            <img src="/src/assets/ov.png" alt="" />
           </div>
           <div>
             <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh">
               កូនស្រីនាម
             </div>
-            <div class="text-2xl md:text-5xl mt-4 md:mt-10">គ្រី</div>
-            <div class="text-2xl md:text-5xl mt-2 md:mt-10">ស្រីនាថ</div>
+            <div class="text-2xl md:text-5xl mt-4 md:mt-10">វ៉ាត</div>
+            <div class="text-2xl md:text-5xl mt-2 md:mt-10">វិច្ចរ៉ា</div>
           </div>
         </div>
         <div class="text-yellow-500 text-2xl md:text-3xl font-khmer-kh mt-10">
-          ដែលនឹងប្រព្រឹត្តទៅ ចាប់ពីម៉ោង ៤ ល្ងាច
+          ដែលនឹងប្រព្រឹត្តទៅ
         </div>
         <div class="text-3xl md:text-5xl mt-4 md:mt-10 font-khmer">
-          ថ្ងៃអាទិត្យទី២៣ ខែមីនា ឆ្នាំ២០២៥
+          ថ្ងៃព្រហស្បតិ៍ ទី២៦ ខែមិថុនា ឆ្នាំ២០២៥
         </div>
         <button
           class="flex justify-center items-center mt-10 font-khmer-kh text-yellow-500 border-2 border-yellow-500 px-4 py-2 rounded-full mx-auto"
-          onclick="window.open('https://www.google.com/maps/@12.7814201,103.4533178,182m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D', '_blank')"
         >
           <div class="text-2xl md:text-4xl">កត់ទុកក្នុងប្រតិទិន</div>
 
@@ -160,7 +159,7 @@
           </svg>
         </button>
       </section>
-      <section class="mt-40">
+      <!-- <section class="mt-40">
         <h2
           class="text-5xl md:text-6xl mt-20 font-khmer text-yellow-200 mb-5 md:mb-20"
         >
@@ -198,7 +197,7 @@
             />
           </div>
         </div>
-      </section>
+      </section> -->
       <section class="mt-40">
         <h2
           class="text-4xl md:text-6xl mt-20 font-khmer text-yellow-200 mb-5 md:mb-20"
@@ -210,7 +209,7 @@
           <div
             class="flex justify-center items-center text-center w-96 md:w-[600px] bg-yellow-200 p-3 rounded-lg font-khmer text-md md:text-2xl  text-gray-400"
           >
-            <div
+            <!-- <div
               @click="selectedDay = 'day22'"
               :class="
                 selectedDay === 'day22' ? 'text-black bg-white w-40 h-10 md:w-60 items-center flex justify-center rounded-lg' : ''
@@ -218,21 +217,17 @@
               class="cursor-pointer mr-10"
             >
               ២២ មីនា
-            </div>
+            </div> -->
             <div
-              @click="selectedDay = 'day23'"
-              :class="
-                selectedDay === 'day23' ? 'text-black bg-white  w-40 h-10 md:w-60 items-center flex justify-center rounded-lg' : ''
-              "
-              class="cursor-pointer"
+              class="cursor-pointer text-white"
             >
-              ២៣ មីនា
+              ២៦ មិថុនា
             </div>
           </div>
 
           <!-- Display Information -->
           <div class="mt-5">
-            <p v-if="selectedDay === 'day22'">
+            <!-- <p v-if="selectedDay === 'day22'">
               <h2 class="text-3xl md:text-4xl mt-20 font-khmer text-yellow-200">
                កម្មវិធីពេលរសៀល
               </h2>
@@ -267,9 +262,9 @@
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                អញ្ជើញភ្ញៀវកិត្តិយសសេពសោយអាហារ
               </h2>
-            </p>
-            <p v-if="selectedDay === 'day23'">
-              <h2 class="text-3xl md:text-4xl mt-20 font-khmer text-yellow-200">
+            </p> -->
+            <!-- <p v-if="selectedDay === 'day23'"> -->
+              <!-- <h2 class="text-3xl md:text-4xl mt-20 font-khmer text-yellow-200">
                កម្មវិធីពេលព្រឹក
               </h2>
               <div class="mt-5">
@@ -319,14 +314,14 @@
               </h2>
               <h2 class="text-3xl md:text-4xl mt-10 font-khmer text-yellow-200">
                កម្មវិធីពេលល្ងាច
-              </h2>
+              </h2> -->
               <div class="mt-5">
                 <div class="border-4 border-yellow-500 w-12 h-12 rounded-full m-auto"></div>
                 <div class="border bg-yellow-500 border-yellow-500 w-1 h-12 m-auto"></div>
               </div>
-              <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
+              <!-- <h2 class="text-2xl md:text-4xl font-khmer-kh text-white">
                ម៉ោង៤:០០ល្ងាចតទៅ
-              </h2>
+              </h2> -->
               <h2 class="text-2xl md:text-4xl font-khmer-kh text-yellow-200">
                 អញ្ជើញភ្ញៀវកិត្តិយសពិសារភោជនាហារដោយមេត្រីភាព
               </h2>
@@ -335,7 +330,7 @@
                 អរគុណសម្រាប់ការចូលរួមរបស់លោកអ្នក
               </h2>
               </div>
-            </p>
+            
           </div>
         </div>
       </section>
